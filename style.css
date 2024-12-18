@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #176990; 
+    color: #011f3c;
+}
+
+h1 {
+    font-size: 24px;
+    margin: 0;
+    color: #052b51; 
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td {
+    text-align: center;
+    background-color: #7ec0e3; 
+}
+
+a {
+    
+    color: #063458; 
+    font-weight: bold;
+    display: block;
+    padding: 10px;
+}
+
+a:hover {
+    background-color: #258bce; 
+    color: #5e93c7;
+}
+
+iframe {
+   
+}
